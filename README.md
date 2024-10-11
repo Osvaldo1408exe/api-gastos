@@ -1,4 +1,5 @@
 # api-gastos
+Backend para sistema de gerenciamento de gasto, com login e crud de gastos
 
 ## Funcionalidades
 
